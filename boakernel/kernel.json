@@ -1,0 +1,3 @@
+{"argv":["python”,”-m”,”boakernel", "-f", "{connection_file}"],
+ "display_name”:”Boa”
+}
